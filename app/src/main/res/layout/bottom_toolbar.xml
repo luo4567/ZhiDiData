@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/bottom_linearlayout"
+    android:layout_width="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:layout_height="60dp"
+    xmlns:zhy="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/tabbg"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.tysjpt.zhididata.zhididata.customview.ChangeColorIconWithTextView
+        android:id="@+id/id_indicator_one"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:padding="5dp"
+        zhy:d_icon="@mipmap/xunjia"
+        zhy:d_text="@string/tab_xunjia"
+        zhy:d_text_size="12sp" />
+
+    <com.tysjpt.zhididata.zhididata.customview.ChangeColorIconWithTextView
+        android:id="@+id/id_indicator_two"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:padding="5dp"
+        zhy:d_icon="@mipmap/zixun"
+        zhy:d_text="@string/tab_zixun"
+        zhy:d_text_size="12sp" />
+
+    <com.tysjpt.zhididata.zhididata.customview.ChangeColorIconWithTextView
+        android:id="@+id/id_indicator_three"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:padding="5dp"
+        zhy:d_icon="@mipmap/gonggao"
+        zhy:d_text="@string/tab_gonggao"
+        zhy:d_text_size="12sp" />
+
+    <com.tysjpt.zhididata.zhididata.customview.ChangeColorIconWithTextView
+        android:id="@+id/id_indicator_four"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:padding="5dp"
+        zhy:d_icon="@mipmap/wode"
+        zhy:d_text="@string/tab_me"
+        zhy:d_text_size="12sp" />
+</LinearLayout>

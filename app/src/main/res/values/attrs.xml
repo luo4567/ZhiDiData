@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--ChangeColorIconView-->
+    <attr name="d_icon" format="reference" />
+    <attr name="d_color" format="color" />
+    <attr name="d_text" format="string" />
+    <attr name="d_text_size" format="dimension" />
+
+    <declare-styleable name="ChangeColorIconView">
+        <attr name="d_icon" />
+        <attr name="d_color" />
+        <attr name="d_text" />
+        <attr name="d_text_size" />
+    </declare-styleable>
+</resources>

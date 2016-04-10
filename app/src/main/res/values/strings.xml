@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZhiDiData</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="tab_xunjia">询价</string>
+    <string name="tab_zixun">咨询</string>
+    <string name="tab_gonggao">公告</string>
+    <string name="tab_me">我的</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="bottom_list">
+        <item>询价</item>
+        <item>咨询</item>
+        <item>公告</item>
+        <item>更多</item>
+    </array>
+    <array name="boommenu_list">
+        <item>住宅</item>
+        <item>商业</item>
+        <item>办公</item>
+        <item>土地招拍挂</item>
+    </array>
+
+    <string-array name="XunJia_category_list_id">
+        <item>住宅</item>
+        <item>商业</item>
+        <item>办公</item>
+        <item>土地招拍挂</item>
+    </string-array>
+
+    <string-array name="XunJia_category_list_name" >
+        <item>住宅</item>
+        <item>商业</item>
+        <item>办公</item>
+        <item>土地招拍挂</item>
+    </string-array>
+
+    <string-array name="zixun_category_list_id">
+        <item>住宅预评</item>
+        <item>工业预评</item>
+        <item>周刊</item>
+        <item>专业人士</item>
+    </string-array>
+
+    <string-array name="zixun_category_list_name" >
+        <item>住宅预评</item>
+        <item>工业预评</item>
+        <item>周刊</item>
+        <item>专业人士</item>
+    </string-array>
+    <string-array name="gonggao_category_list_id" >
+        <item>土地挂牌</item>
+        <item>资产处置</item>
+        <item>地产沙龙</item>
+    </string-array>
+
+    <string-array name="gonggao_category_list_name" >
+        <item>土地挂牌</item>
+        <item>资产处置</item>
+        <item>地产沙龙</item>
+    </string-array>
+</resources>
