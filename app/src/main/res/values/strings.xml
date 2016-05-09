@@ -10,4 +10,7 @@
     <string name="tab_zixun">咨询</string>
     <string name="tab_gonggao">公告</string>
     <string name="tab_me">我的</string>
+
+    <string name="splash_copyright">Copyright &#169; 2016 zhidi All Rights Reserved\nPowered by zhididata</string>
+    <string name="splash_version">V %1$s</string>
 </resources>
